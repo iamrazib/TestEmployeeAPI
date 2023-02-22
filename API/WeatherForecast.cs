@@ -15,6 +15,7 @@ namespace API
         public string test { get; set; }
 
         public string TestMethod { get; set; }
+        public string TestMethod2 { get; set; }
 
     }
 }
